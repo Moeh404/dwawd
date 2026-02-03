@@ -7,7 +7,7 @@
 
   "server": {
     "ip": "Ramadan_KRAFT.aternos.me:59388", 
-    "port": 48211,   
+    "port": 25565,   
     "version": "1.12.1"   
   },
 
