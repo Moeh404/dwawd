@@ -5,7 +5,7 @@
     "type": "offline"
   },
 "server": {
-    "ip": "Ramadan_KRAFT.aternos.me",
+    "ip": "Ramadan_KRAFT.aternos.me:59388",
     "port": 59388,
     "version": "1.20.4"
 },
